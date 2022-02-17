@@ -25,7 +25,7 @@ As of now, id numbers and transposing have been done on Microsoft Excel.
 Through Tableau Public, a dashboard has been created comparing density maps of shots taken and goals scored.
 
 # Exploratory Data Analysis comments
-The sample game size of 12 is too small extract meaningful insights. However, the current data has shown a high volume of shots taken in x,y coordinates of (-30,0) to (-60,-20), with few goals scored in that region. This may indicate players who take shots in those region may provide less value overall in terms of goals scored. 
+The sample game size of 12 is too small to extract meaningful insights. However, the current data has shown a high volume of shots taken in x,y coordinates of (-30,0) to (-60,-20), with few goals scored in that region. This may indicate players who take shots in those region may provide less value overall in terms of goals scored. 
 
 
 

@@ -1,6 +1,6 @@
 # NHL_Analytics
 
-#Data collection
+# Data collection
 
 This project scoring trends in the National Hockey Leagure (NHL) by tracking shots taken and goals scored.
 

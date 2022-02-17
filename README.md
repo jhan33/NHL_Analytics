@@ -1,6 +1,6 @@
-# NHL_Analytics
+# NHL Analytics
 
-# Data collection
+# Data Collection
 
 This project scoring trends in the National Hockey Leagure (NHL) by tracking shots taken and goals scored.
 
@@ -21,11 +21,13 @@ Python pandas will be used to transpose the data and provide id numbers for shot
 
 As of now, id numbers and transposing have been done on Microsoft Excel.
 
-# Data visualization
+# Data Visualization
 Through Tableau Public, a dashboard has been created comparing density maps of shots taken and goals scored.
 
-# Exploratory Data Analysis comments
+# Exploratory Data Analysis Comments
 The sample game size of 15 is too small to extract meaningful insights. However, the current data has shown a high volume of shots taken in x,y coordinates of (-30,0) to (-60,-20), with few goals scored in that region. This may indicate players who take shots in those region may provide less value overall in terms of goals scored. 
+
+Further data is required to confirm insights found. This will be dependent on improving the data cleaning process to allow for both better formatting and larger datasets.
 
 
 

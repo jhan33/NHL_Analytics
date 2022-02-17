@@ -6,7 +6,7 @@
 function NHL_extract() {
 
 
-  var num_of_games = 12 //Set to 1271 for regular season
+  var num_of_games = 15 //Set to 1271 for regular season
 
   var id_array = Array(num_of_games);
   for (var i = 0; i < num_of_games; i++) {
@@ -52,10 +52,10 @@ function NHL_extract() {
 
   //Create the csv files onto user's google drive 
 
-  DriveApp.createFile('12 games - x coordinates of shots', shots_list_x, MimeType.CSV);
-  DriveApp.createFile('12 games - y coordinates of shots', shots_list_y, MimeType.CSV);
-  DriveApp.createFile('12 games - x coordinates of goals', goals_list_x, MimeType.CSV);
-  DriveApp.createFile('12 games - y coordinates of goals', goals_list_y, MimeType.CSV);
+  DriveApp.createFile('15 games - x coordinates of shots', shots_list_x, MimeType.CSV);
+  DriveApp.createFile('15 games - y coordinates of shots', shots_list_y, MimeType.CSV);
+  DriveApp.createFile('15 games - x coordinates of goals', goals_list_x, MimeType.CSV);
+  DriveApp.createFile('15 games - y coordinates of goals', goals_list_y, MimeType.CSV);
 
 
 

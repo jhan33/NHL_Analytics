@@ -10,7 +10,7 @@ This project investigates scoring trends in the National Hockey Leagure (NHL) by
 
 Semi-structured data was in the form of a JSON response was extracted off NHL stats API. Both Google Apps Script and node.js Javascript were utilized in the data extraction process. The data was structured utilizing PL/SQL on Microsoft SSMS. Data visualization was conducted on Tableau Public. 
 
-Data was modelled in scatter plots and density maps to find clusters with outlier high shot percentages and identify insights on undiscovered scoring opportunities.
+Data was visualized in scatter plots and density maps to find clusters with outlier high shot percentages and identify insights on undiscovered scoring opportunities.
 
 
 

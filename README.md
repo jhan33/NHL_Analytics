@@ -1,7 +1,5 @@
 # NHL Analytics
 
-# Data Collection
-
 Tableau Public Data Visualization: https://public.tableau.com/app/profile/justin.han2491/viz/NHLShootingPercentageAnalysis/Dashboard1
 
 NHL stats API: https://gitlab.com/dword4/nhlapi
